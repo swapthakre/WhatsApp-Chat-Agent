@@ -1,0 +1,26 @@
+{
+  "coffee machine": {
+    "title": "Premium Coffee Machine",
+    "duration": "2-year warranty",
+    "fee": "₹14,999",
+    "content": "Brews espresso, cappuccino, and latte in under 2 minutes.",
+    "extras": "Energy efficient, compact design, free coffee beans with purchase.",
+    "mediaUrl": "https://example.com/coffee-machine.jpg",
+    "syllabus": {
+      "text": "N/A – but ask us for a free recipe booklet!",
+      "mediaUrl": "https://example.com/coffee-recipes.pdf"
+    },
+    "projects": {
+      "text": "N/A – unless you count making perfect cappuccinos ☕",
+      "mediaUrl": null
+    },
+    "timing": {
+      "text": "Available 24/7 online at our store.",
+      "mediaUrl": null
+    },
+    "feeDetail": {
+      "text": "₹14,999 (includes warranty + free coffee beans).",
+      "mediaUrl": null
+    }
+  }
+}
